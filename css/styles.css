@@ -83,7 +83,9 @@ letter-spacing: 0.02em;
 .main-button:focus {background: #404BBF;
     cursor: pointer;
 }
-
+.page {
+    font-style: normal;
+}
 .title {
     color: #2E2F42;
     font-style: normal;
@@ -122,8 +124,8 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 
-.section-features
-.hero-features {
+.section-list,
+.hero-list {
 color: #2E2F42;
     font-size: 20px;
     font-style: normal;

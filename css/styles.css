@@ -86,7 +86,10 @@ letter-spacing: 0.02em;
 .page {
     font-style: normal;
 }
-.title {
+.title ,
+.section-list ,
+.hero-list
+ {
     color: #2E2F42;
     font-style: normal;
     font-size: 20px;
@@ -95,7 +98,8 @@ letter-spacing: 0.02em;
     letter-spacing:0.02em;
 }
 .text ,
-.hiro-texy
+.hiro-texy ,
+.section-text
  {
     font-style: normal;
     font-size: 16px;
@@ -124,14 +128,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 
-.section-list,
-.hero-list {
-color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
+
 
 .footer {
     background-color: #2E2F42;

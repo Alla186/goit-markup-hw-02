@@ -98,7 +98,7 @@ letter-spacing: 0.02em;
     letter-spacing:0.02em;
 }
 .text ,
-.hiro-text ,
+.hero-text ,
 .section-text
  {
     font-style: normal;
@@ -112,7 +112,7 @@ letter-spacing: 0.02em;
     background-color: #F4F4FD ;
     font-style: normal;
 }
-.hiro {
+.hero {
     background-color: #FFFFFF ;
     font-style: normal;
 }

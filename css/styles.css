@@ -105,6 +105,10 @@ letter-spacing: 0.02em;
 .section {
     background-color: #F4F4FD;
 }
+.hiro {
+    background-color: #FFF;
+    font-style: normal;
+}
 
 .section-title, 
 .hero-titli {
@@ -120,10 +124,9 @@ text-transform: capitalize;
 
 .section-features
 .hero-features {
-    color: #2e2f42;
-    font-style: normal;
-    text-align: center;
+color: #2E2F42;
     font-size: 20px;
+    font-style: normal;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
